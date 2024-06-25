@@ -1,0 +1,11 @@
+README.md
+setup.py
+second_try.egg-info/PKG-INFO
+second_try.egg-info/SOURCES.txt
+second_try.egg-info/dependency_links.txt
+second_try.egg-info/requires.txt
+second_try.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py

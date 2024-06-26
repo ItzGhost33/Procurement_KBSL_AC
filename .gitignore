@@ -26,7 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-Level 4/*
+Level_4/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
